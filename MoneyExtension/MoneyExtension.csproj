@@ -4,6 +4,25 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-  </PropertyGroup>
 
+    <PackageId>MoneyExtensionsByMateusin96</PackageId>
+    <Version>1.0.0</Version>
+    <icon></icon>
+    <License>MIT</License>
+    <Authors>Mateus Santos Lopes</Authors>
+    <Company>NIX</Company>
+    <PackageDescription>Format Cents more easy</PackageDescription>
+    <Description>Format Cents more easy</Description>
+    <RepositoryUrl>https://github.com/mateusenviromentscientist/money-extensions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/mateusenviromentscientist/money-extensions</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>money;int;decimal;converter</PackageTags>
+    <Title>MoneyExtensionsByMateusin96</Title>
+    <Summary>Format Cents more easy</Summary>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <None Include="..\Media\icon.png" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 </Project>
